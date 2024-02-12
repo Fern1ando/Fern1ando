@@ -1,4 +1,4 @@
-- Thème:Prix d'une action 
+- Thème:l'impact du climat sur les marchés boursiers
 - Problématique:Comment les facteurs climatiques influencent l'évolution des rendements boursiers?
 - Hypothèse:le risque climatique a un impact négatif sur le rendement boursier
 - Objectif:Déterminer le niveau de risque climatique pouvant entraîner la chute du cours de l'entreprise.
