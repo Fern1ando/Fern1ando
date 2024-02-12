@@ -4,4 +4,4 @@
 - Objectif:Déterminer le niveau de risque climatique pouvant entraîner la chute du cours de l'entreprise.
 - Critère d'évolution:Évaluer le rendement boursier en fonction du score du risque climatique spécifique à chaque entreprise
 
-menbres du groupe:Phuong Hoang,Hani Slimani,Jesmyn,Li Fernando
+menbres du groupe:Phuong Hoang,Hani Slimani,Jasmine,Li Fernando
